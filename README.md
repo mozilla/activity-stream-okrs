@@ -1,5 +1,8 @@
 # activity-stream-okrs
-These are quarterly team level OKR projects for the Activity Stream team
+These are quarterly team level OKR projects for the Activity Stream team.
+
+
+![Activity Stream](https://trello-attachments.s3.amazonaws.com/56f56a284ae0796984e3ca8e/59dbee134b3a6727ac0f835a/b5efb47fdc833746b75753db37a1f8e2/Screen_Shot_2017-10-16_at_12.58.26_PM.png)
 
 ## 12 Month Vision
 Activity Stream is more than just a way of finding places on the web you’ve already visited.  It is an extensible platform for intelligently aggregating user activity and for making recommendations on new content.   
