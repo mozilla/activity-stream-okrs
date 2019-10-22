@@ -15,6 +15,6 @@ In addition to work on about:home and about:newtab, we are generalizing the Snip
 
 We will be releasing a Web Extension API that will allow users/developers to add new sections the the Newtab page.  
 
-As always, we remain commited to high performance and high stability.  We are implementing an interface to Sentry to give a better view into 'in the wild' runtime errors.  We are building a process to capture A/B perceived performance videos in order to prevent  perf regressions.  
+As always, we remain committed to high performance and high stability.  We are implementing an interface to Sentry to give a better view into 'in the wild' runtime errors.  We are building a process to capture A/B perceived performance videos in order to prevent  perf regressions.  
 
-The team is commited to product improvement through experimentation and data collection.  Each release will be guided and informed by multiple experiments to challenge assumptions and add confidence that we are release the most usable and useful features for our users.  
+The team is committed to product improvement through experimentation and data collection.  Each release will be guided and informed by multiple experiments to challenge assumptions and add confidence that we are release the most usable and useful features for our users.  
